@@ -1,0 +1,621 @@
+{
+    "title": "Library",
+    "description": "Browse for assets needed to report and present analysis",
+    "tabs": [
+        {
+            "title": "Featured",
+            "description": "Curated top picks from this week",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Item Name 1",
+                    "description": "Short description of item 1",
+                    "subtitle": "Featured",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Item Name 2",
+                    "description": "Short description of item 2",
+                    "date": "06/27/2024",
+                    "subtitle": "Featured",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Item Name 3",
+                    "description": "Short description of item 3",
+                    "date": "06/27/2024",
+                    "subtitle": "Featured",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Item Name 4",
+                    "description": "Short description of item 4",
+                    "date": "06/27/2024",
+                    "subtitle": "Featured",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "KPI",
+            "description": "Key Performance Indicators",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Item Name 1",
+                    "description": "Short description of item 1",
+                    "date": "06/27/2024",
+                    "subtitle": "KPI",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Item Name 2",
+                    "description": "Short description of item 2",
+                    "date": "06/27/2024",
+                    "subtitle": "KPI",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Item Name 3",
+                    "description": "Short description of item 3",
+                    "date": "06/27/2024",
+                    "subtitle": "KPI",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Item Name 4",
+                    "description": "Short description of item 4",
+                    "date": "06/27/2024",
+                    "subtitle": "KPI",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Layouts",
+            "description": "Different layouts available",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Item Name 1",
+                    "description": "Short description of item 1",
+                    "date": "06/27/2024",
+                    "subtitle": "Layouts",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Item Name 2",
+                    "description": "Short description of item 2",
+                    "date": "06/27/2024",
+                    "subtitle": "Layouts",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Item Name 3",
+                    "description": "Short description of item 3",
+                    "date": "06/27/2024",
+                    "subtitle": "Layouts",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Item Name 4",
+                    "description": "Short description of item 4",
+                    "date": "06/27/2024",
+                    "subtitle": "Layouts",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Storyboards",
+            "description": "Storyboards to visualize data",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Test Item Name 1",
+                    "description": "Short description of item 1",
+                    "date": "06/27/2024",
+                    "subtitle": "Storyboards",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Item Name 2",
+                    "description": "Short description of item 2",
+                    "date": "06/27/2024",
+                    "subtitle": "Storyboards",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Item Name 3",
+                    "description": "Short description of item 3",
+                    "date": "06/27/2024",
+                    "subtitle": "Storyboards",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Item Name 4",
+                    "description": "Short description of item 4",
+                    "date": "06/27/2024",
+                    "subtitle": "Storyboards",
+                    "details": "Those options are already baked in with this model. Shoot me an email, clear blue water but we need distributors to evangelize the new line to local markets.",
+                    "tags": [
+                        "#comms",
+                        "#coverage",
+                        "#stakeholders"
+                    ],
+                    "stats": {
+                        "used": 2485,
+                        "type": "Universal",
+                        "pagesNo": 6,
+                        "lastUpdated": "07/23/2024"
+                    },
+                    "questions": [
+                        {
+                            "title": "Question 1",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 2",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 3",
+                            "description": "Short description of the item goes nicely here."
+                        },
+                        {
+                            "title": "Question 4",
+                            "description": "Short description of the item goes nicely here."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
